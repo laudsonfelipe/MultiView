@@ -1,11 +1,12 @@
 
-  # Modern Dashboard for TSV Viewer
+# MultiView
 
-  This is a code bundle for Modern Dashboard for TSV Viewer. The original project is available at https://www.figma.com/design/tSY2AXwEyyvLeFCNTK1INu/Modern-Dashboard-for-TSV-Viewer.
+MultiView é um visualizador moderno de arquivos tabulares, com suporte a vários formatos.
 
-  ## Running the code
+Site: https://laudsonfelipe.github.io/MultiView/
 
-  Run `npm i` to install the dependencies.
+## Como rodar o projeto
 
-  Run `npm run dev` to start the development server.
+1. Instale as dependências: `pnpm i`
+2. Inicie o servidor de desenvolvimento: `pnpm run dev`
   
